@@ -47,3 +47,4 @@ I made 3 tables for my app, User, Tweet and profile. User stores the user inform
 # Wireframe
 
 
+
